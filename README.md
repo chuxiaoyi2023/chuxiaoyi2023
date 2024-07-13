@@ -5,9 +5,12 @@
 
 ![chuxiaoyi2023's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chuxiaoyi2023&show_icons=true&count_private=true&line_height=40&hide_border=true&theme=vue)
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/chuxiaoyi2023/chuxiaoyi2023/output/github-contribution-grid-snake.svg)
+
 <a href="https://github.com/sophgo/LLM-TPU">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=sophgo&repo=LLM-TPU&theme=buefy" />
-</a>
+</a>![Uploading github-user-contribution.svg…]()
+
 
 <br>
 <br>
